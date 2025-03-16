@@ -1,4 +1,5 @@
 Attribute VB_Name = "modJackie"
+Attribute VB_Description = "v0.1.0"
 Option Explicit
 
 Private Sub Workbook_Open()
